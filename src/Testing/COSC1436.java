@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication2;
+package Testing;
 
 import java.util.Scanner;
 
@@ -20,9 +20,9 @@ public class COSC1436 {
 //           jFrame1 j = new jFrame1();
 //           j.setLocationRelativeTo(null);
 //           j.setVisible(true);
-           
+           Chapter3Exercise_3.test2();
 
-        System.out.print("\nProgram stop\n");
+        //System.out.print("\nProgram stop\n");
     }
 
     private static void convertToBinary1(String s) {
