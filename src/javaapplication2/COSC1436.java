@@ -17,11 +17,10 @@ public class COSC1436 {
            //Chapter3Practice.Question6();
            //Form1 form1 = new Form1();
            //form1.setVisible(true);
-           jFrame1 j = new jFrame1();
-           j.setLocationRelativeTo(null);
-           j.setVisible(true);
+//           jFrame1 j = new jFrame1();
+//           j.setLocationRelativeTo(null);
+//           j.setVisible(true);
            
-           // int one, ONE;
 
         System.out.print("\nProgram stop\n");
     }
