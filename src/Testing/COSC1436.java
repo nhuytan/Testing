@@ -20,7 +20,7 @@ public class COSC1436 {
 //           jFrame1 j = new jFrame1();
 //           j.setLocationRelativeTo(null);
 //           j.setVisible(true);
-           Chapter3Exercise_3.test2();
+           //Chapter3Exercise_3.test2();
 
         //System.out.print("\nProgram stop\n");
     }
