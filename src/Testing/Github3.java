@@ -10,5 +10,9 @@ package Testing;
  * @author Nhi Le
  */
 public class Github3 {
-    
+    public static void test()
+    {
+        //hello
+        //hello2
+    }
 }
