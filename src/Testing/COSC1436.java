@@ -11,18 +11,7 @@ public class COSC1436 {
 
     public static void main(String[] args) {
 
-            //SecondsConversionApp.test1();
-            //SecondsConversionApp.test2();
-          // Chapter2Quiz.chapter2Quiz();
-           //Chapter3Practice.Question6();
-           //Form1 form1 = new Form1();
-           //form1.setVisible(true);
-//           jFrame1 j = new jFrame1();
-//           j.setLocationRelativeTo(null);
-//           j.setVisible(true);
-           //Chapter3Exercise_3.test2();
 
-        //System.out.print("\nProgram stop\n");
     }
 
     private static void convertToBinary1(String s) {
@@ -49,7 +38,6 @@ public class COSC1436 {
         for (int i = 0; i < messChar.length; i++) {
             result += Integer.toBinaryString(messChar[i]) + " ";
         }
-
         System.out.println(result);
     }
 
